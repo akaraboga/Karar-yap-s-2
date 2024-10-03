@@ -1,0 +1,7 @@
+C:\Users\karab\source\repos\Karar-yapıları-2\Karar-yapıları-2\obj\Debug\Karar-yapıları-2.csproj.AssemblyReference.cache
+C:\Users\karab\source\repos\Karar-yapıları-2\Karar-yapıları-2\obj\Debug\Karar-yapıları-2.csproj.CoreCompileInputs.cache
+C:\Users\karab\source\repos\Karar-yapıları-2\Karar-yapıları-2\bin\Debug\Karar-yapıları-2.exe.config
+C:\Users\karab\source\repos\Karar-yapıları-2\Karar-yapıları-2\bin\Debug\Karar-yapıları-2.exe
+C:\Users\karab\source\repos\Karar-yapıları-2\Karar-yapıları-2\bin\Debug\Karar-yapıları-2.pdb
+C:\Users\karab\source\repos\Karar-yapıları-2\Karar-yapıları-2\obj\Debug\Karar-yapıları-2.exe
+C:\Users\karab\source\repos\Karar-yapıları-2\Karar-yapıları-2\obj\Debug\Karar-yapıları-2.pdb
