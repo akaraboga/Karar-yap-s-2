@@ -1,1 +1,1 @@
-# Karar-yap-s-2
+#Alışveriş yapmadan gitmeyin :)
